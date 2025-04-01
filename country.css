@@ -21,6 +21,9 @@
 .country-details img {
     width: 40%;
     border: 1px solid #ddd;
+    width: 300px;
+   background: linear-gradient(to right, #eee, #fafafa, #eee);
+
 }
 
 .details-text {
